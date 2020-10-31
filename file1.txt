@@ -1,1 +1,1 @@
-modifying  file 1 in upstream branch
+finished resolving the conflicts this is the final version
